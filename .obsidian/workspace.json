@@ -1,0 +1,176 @@
+{
+  "main": {
+    "id": "331cc3d04a90e770",
+    "type": "split",
+    "children": [
+      {
+        "id": "b26317e4b5e72cd2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f51655c6e0e3ef19",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "4a91356039f6d587",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "读《非暴力沟通》笔记/道德评判.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bd9ab8c0f7657eb9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "读《非暴力沟通》笔记/回避责任.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c70d0e690a04a9eb",
+    "type": "split",
+    "children": [
+      {
+        "id": "e106218dc04b8810",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d7ae53373b6941b0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b58ff805983323a2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fb00faad3bcf4172",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e437806cc50ebf71",
+    "type": "split",
+    "children": [
+      {
+        "id": "69e17ca8ded5fe53",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "713648e65e079259",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "读《非暴力沟通》笔记/回避责任.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d4c1f798868fbe12",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "读《非暴力沟通》笔记/回避责任.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e72cebe10ef0e1ba",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "09b3b438991139cc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "读《非暴力沟通》笔记/回避责任.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "d7ae53373b6941b0",
+  "lastOpenFiles": [
+    "读《非暴力沟通》笔记/道德评判.md",
+    "读《非暴力沟通》笔记/回避责任.md",
+    "读《非暴力沟通》笔记"
+  ]
+}
